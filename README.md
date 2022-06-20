@@ -1,7 +1,7 @@
  Hello 👋 Iam Dorothy Akoth
 
 . I’m a graduate from AkiraChix ...
-. 🌱 I’m currently working as a backend Developer Intern, 
+. 🌱 I’m currently working as a backend Developer , 
 . working in a collaboratively in both physical and remote environment ...
 . 👯  I’m looking to collaborate on any Open Source projects..
  
