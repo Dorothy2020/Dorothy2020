@@ -1,8 +1,8 @@
-### Here is what I am working on there 👋
+### Hello 👋 I am Dorothy Akoth
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...FreeCodecamp Projects
 - 🌱 I’m currently learning ...Python
