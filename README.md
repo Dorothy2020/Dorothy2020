@@ -1,16 +1,14 @@
-### Hi there 👋
+### Here is what I am working on there 👋
 
-<!--
-**Dorothy2020/Dorothy2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ...FreeCodecamp Projects
+- 🌱 I’m currently learning ...Python
+- 👯 I’m looking to collaborate on ...Django RestFramework
+- 🤔 I’m looking for help with ... Django RestFramework, Springboot
+- 💬 Ask me about ... Python,Django RestFramework,Java,ReactJs,html,css
+- 📫 How to reach me: ...https://www.linkedin.com/in/dorothy-akoth-7117411b1/
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I love music
