@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Python,Django RestFramework,Java,ReactJs,html,css
 - 📫 How to reach me: ...https://www.linkedin.com/in/dorothy-akoth-7117411b1/
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love music
+- ⚡ Fun fact: ... I love listening to music
 
 
 
