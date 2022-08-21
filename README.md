@@ -14,4 +14,6 @@
 - ⚡ Fun fact: ... I love music
 
 
-![Dorothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorothy2020&hide=contribs,prs)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true&theme=radical)
