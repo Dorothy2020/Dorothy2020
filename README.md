@@ -3,7 +3,6 @@
 
 
 
-
 - 🔭 I’m currently working on ...FreeCodecamp Projects
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...Django RestFramework open source projects
@@ -16,4 +15,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true&theme=radical)
+                          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true&theme=radical)
