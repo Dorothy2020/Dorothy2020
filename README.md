@@ -12,3 +12,6 @@
 - 📫 How to reach me: ...https://www.linkedin.com/in/dorothy-akoth-7117411b1/
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love music
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorothy2020&hide=contribs,prs)
