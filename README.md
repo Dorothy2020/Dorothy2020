@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on ...Django RestFramework open source projects
 - 🤔 I’m looking for help with ... Django RestFramework, Springboot
 - 💬 Ask me about ... Python,Django RestFramework,Java,ReactJs,html,css
-- 📫 How to reach me: ... LinkedIn, https://twitter.com/Dorothy30986279
+- 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love listening to music
 
