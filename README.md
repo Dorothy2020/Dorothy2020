@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Gradated from AkiraChix Bootcamp
+- 🔭 Graduated from AkiraChix Bootcamp
 - 🌱 Currently working on Alison Online courses(Learning Php)
 - 🤔 
 - 💬 Ask me about ... Python,Django RestFramework,html,css
