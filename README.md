@@ -3,14 +3,13 @@
 
 
 
-- 🔭 I’m currently working on ...open source projects
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ...Django RestFramework open source projects
-- 🤔 I’m looking for help with ... Django RestFramework, Springboot
+- 🔭 Gradated from AkiraChix Bootcamp
+- 🌱 Currently working on Alison Online courses(Learning Php)
+- 🤔 
 - 💬 Ask me about ... Python,Django RestFramework,html,css
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love listening to music
+- ⚡ Fun fact: ...  Love listening to music
 
 
 
