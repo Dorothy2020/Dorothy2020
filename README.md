@@ -1,4 +1,4 @@
-### Hello 👋 I am Dorothy Akoth
+### Hello 👋 my name is Dorothy Akoth
 
 
 
