@@ -3,9 +3,10 @@
 
 
 
-- 🔭 Graduated from AkiraChix Bootcamp
+- 🔭 Graduated from AkiraChix Bootcamp class of 2021
 - 🌱 Currently working on Alison Online courses(Learning Php)
 - 💬 Ask me about ... Python,Django RestFramework,html,css
+-  Looking forward in contributing to open source projects
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...  Love listening to music
