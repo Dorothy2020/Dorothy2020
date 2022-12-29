@@ -5,7 +5,6 @@
 
 - 🔭 Graduated from AkiraChix Bootcamp
 - 🌱 Currently working on Alison Online courses(Learning Php)
-- 🤔 
 - 💬 Ask me about ... Python,Django RestFramework,html,css
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
