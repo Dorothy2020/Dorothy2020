@@ -10,7 +10,7 @@
 - ...Looking forward in contributing to open source projects
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...  Music is medicine
+- ⚡ Fun fact: ...  Music is my medicine
 
 
 
