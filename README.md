@@ -12,6 +12,7 @@
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...  Music is my medicine
 
-    https://github-readme-stats.vercel.app/api?username=[Dorothy2020]
 
+
+![Dorothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true&theme=radical)
 
