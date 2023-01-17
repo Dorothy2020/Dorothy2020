@@ -14,32 +14,20 @@
 
 
 
-
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
-
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
+- 💻 &nbsp; Python| Javascript | Django | Php | 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | 
+- 🎮 &nbsp; Unity|Teamwork
+- 🛢 &nbsp; MySQL | Xampp server| Redis-server
+- 🔧 &nbsp; Git | Postman API | Figma | Visual Studio
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+ - Connect with me on [Twittter](https://www.twittter.com/in/dorothy_techy/) 👨🏻‍💻
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Dorothy2020)
 
-
-
-
- ⭐️ From [Arsh](https://github.com/[onlyArsh])
+⭐️ From [Dorothy2020](https://github.com/[Dorothy2020])
