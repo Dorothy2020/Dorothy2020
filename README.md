@@ -14,3 +14,24 @@
 
 
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
+- 🎮 &nbsp; Unity
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/dorothy-akoth/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:akothdorothy29@gmail.com) 💌
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Dorothy2020)
+
+
+
+
+ ⭐️ From [Dorothy](https://github.com/[Dorothy2020])
