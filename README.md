@@ -27,7 +27,7 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/dorothy-akoth/) 👨🏻‍💻
+
  - Shoot Me an [Email](mailto:akothdorothy29@gmail.com) 💌
  - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Dorothy2020)
 
