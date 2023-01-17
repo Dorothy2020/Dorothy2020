@@ -20,7 +20,7 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | 
 - 🎮 &nbsp; Unity|Teamwork
 - 🛢 &nbsp; MySQL | Xampp server| Redis-server
-- 🔧 &nbsp; Git | Postman API | Figma | Visual Studio
+- 🔧 &nbsp; Git | Postman API | Figma | Visual Studio|Google Colab
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Dorothy2020&show_icons=true)
