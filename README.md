@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; Python| Javascript | Django | Php | 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | 
-- 🎮 &nbsp; Unity|Teamwork
+
 - 🛢 &nbsp; MySQL | Xampp server| Redis-server
 - 🔧 &nbsp; Git | Postman API | Figma | Visual Studio|Google Colab
 
