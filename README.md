@@ -4,7 +4,7 @@
 
 
 - 🔭 Graduated from AkiraChix Bootcamp class of 2021
-- 🌱 Currently working on Alison Online courses(Learning Php)
+- 🌱 Currently working on Udacity Courses(Learning Python)
 -....Compleated Alison certificate course 
 - 💬 Ask me about ... Python,Django RestFramework,Php(basics),Js(basics),html,css
 - ...Looking forward in contributing to open source projects
