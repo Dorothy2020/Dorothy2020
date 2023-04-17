@@ -16,7 +16,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python| Javascript | Django | Php | 
+- 💻 &nbsp; Python| Django | Php | 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | 
 
 - 🛢 &nbsp; MySQL | Xampp server| Redis-server
