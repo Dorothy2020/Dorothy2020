@@ -5,7 +5,7 @@
 
 - 🔭 Graduated from AkiraChix Bootcamp class of 2021
 - 🌱 Currently working on Udacity Courses(Learning Python, Data )
--....Compleated Alison certificate course 
+-    Compleated Alison certificate course 
 - 💬 Ask me about ... Python,Django RestFramework,Php(basics),Js(basics),html,css
 - ...Looking forward in contributing to open source projects
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
