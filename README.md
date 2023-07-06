@@ -27,6 +27,5 @@
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [Twittter](https://www.twittter.com/in/dorothy_techy/) 👨🏻‍💻
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/Dorothy2020)
 
 ⭐️ From [Dorothy2020](https://github.com/[Dorothy2020])
