@@ -27,6 +27,6 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [Twittter](https://www.twittter.com/in/dorothy_techy/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/dorothy-akoth/) 👨🏻‍💻
 
 ⭐️ From [Dorothy2020](https://github.com/[Dorothy2020])
