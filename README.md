@@ -6,7 +6,7 @@
 - 🔭 Graduated from AkiraChix Bootcamp class of 2021
 - 🌱 Currently doing personal projects through tutorials and documentation(Learning Python, FastAPI, Django Rest Framework )
 - Aspiring DevOps Engineer
--    Compleated Alison certificate course 
+-    Completed Alison certificate course 
 - 💬 Ask me about ... Python,Django RestFramework,Js(basics),html,css
 - ...Looking forward in contributing to open source projects
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
