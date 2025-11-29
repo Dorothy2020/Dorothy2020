@@ -3,11 +3,12 @@
 
 
 
-- 🔭 Graduated from AkiraChix Bootcamp class of 2021
-- 🌱 Currently doing personal projects through tutorials and documentation(Learning Python, FastAPI, Django Rest Framework )
-- Aspiring DevOps Engineer
--    Completed Alison certificate course 
-- 💬 Ask me about ... Python,Django RestFramework,Js(basics),html,css
+- 🔭 A graduate from AkiraChix Bootcamp class of 2021
+- 🌱 Currently building full-stack web applications and actively focusing on personal learning through mentoring others, bootcamp learnings, tech events, and hackathons, while exploring Python, FastAPI, and Django REST Framework.
+- 🛠 Hands-on with key DevOps tools and platforms such as DigitalOcean, AWS, Linux, and GitHub Actions, with a growing interest in automation, cloud infrastructure, and CI/CD pipelines.
+- ✅ Completed several online courses and earned certifications on coding projects, e.g., Power Learn Project and Alison.
+- 🤖 Also exploring AI technologies, including the use of ADK (AI Development Kit) to understand how AI can integrate with modern applications and automate workflows.
+- 💬 Ask me about ... Python,Django RestFramework,Js, ReactJS , third party API intergrations.
 - ...Looking forward in contributing to open source projects
 - 📫 How to reach me: ... LinkedIn,    https://twitter.com/dorothy_techy
 - 😄 Pronouns: ... She/Her
