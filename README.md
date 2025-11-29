@@ -21,7 +21,7 @@
 - 💻 &nbsp; Python| Django | FastApi
 - 🌐 &nbsp; HTML | CSS | Bootstrap | 
 
-- 🛢 &nbsp; MySQL | Xampp server| Redis-server| PostgreSQL
+- 🛢 &nbsp; MySQL | Xampp server| Redis-server| PostgreSQL| MongoDB
 - 🔧 &nbsp; Git | Postman API | Figma | Visual Studio|Google Colab
 
 
